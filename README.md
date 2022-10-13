@@ -34,6 +34,10 @@ Things are going OK here at Plato's, but there's room for improvement. We've bee
 - Power Query
 - M functions
 - Microsoft Excel
+## Power BI Dashboard
+
+![tuxpi com 1665657002](https://user-images.githubusercontent.com/92555446/195662326-14aa5919-bf59-4722-8700-99eb52ec0887.jpg)
+
 ## Insights and Recommendation
 - Total orders are ***49K***, Total pizza prepared ***50K***.
 - There are ***4*** categories and  ***32*** variety of pizza.
